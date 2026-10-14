@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+data/
+*.wav
+*.mp3
+*.flac
+.DS_Store
